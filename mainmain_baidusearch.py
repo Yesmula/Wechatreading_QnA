@@ -172,8 +172,8 @@ def main():
                         return 0
         time.sleep(1)
 
-API_KEY = "4qEI5aNHE514HaTfTVuFyV0u"
-SECRET_KEY = "IDso7FYS5bb3PyOcTfrLV5yITQDM8snB"
+API_KEY = ""
+SECRET_KEY = ""
 try:
     print('Welcome to Wechatreading_QnA!')
     #position=get_window_pos('微信读书')
